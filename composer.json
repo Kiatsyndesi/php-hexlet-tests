@@ -1,0 +1,17 @@
+{
+    "name": "kiyanden/php-hexlet-tests",
+    "type": "project",
+    "require": {
+        "webmozart/assert": "^1.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kiyanden\\PhpHexletTests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kiatsyndesi"
+        }
+    ]
+}
